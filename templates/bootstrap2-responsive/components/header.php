@@ -1,15 +1,15 @@
 <a name="top-page"></a>
 <div class="always-top">
 <?php $c_code = config_item('codecanyon_code'); if(empty($c_code)): ?>
-<div class="top-wrapper">
+<!--<div class="top-wrapper">
       <div class="container">
             Please insert:
             <pre>$config['codecanyon_username'] = 'your_codecanyon_username';<br />$config['codecanyon_code'] = 'your_purchase_code';</pre>
             Into your application/config/cms_config.php to remove this message.<br />
             <a target="_blank" href="http://support.envato.com/index.php?/Knowledgebase/Article/View/506/54/where-can-i-find-my-purchase-code"><em>Where to find purchase code?</em></a>
             <br /><br />
-      </div> <!-- /.container -->
-</div>
+      </div>  /.container 
+</div>-->
 <?php endif; ?>
 
 <?php if(config_item('cookie_warning_enabled') === TRUE): ?>
