@@ -5,6 +5,6 @@ documentation/*
 files/captcha/*
 application/config/development/*
 application/config/production/*
-
+nbproject/
 
 
