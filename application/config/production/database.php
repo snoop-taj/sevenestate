@@ -37,14 +37,22 @@
 |	['autoinit'] Whether or not to automatically initialize the database.
 |	['stricton'] TRUE/FALSE - forces 'Strict Mode' connections
 |							- good for ensuring strict SQL while developing
+<<<<<<< HEAD
 
 | The $active_group variable lets you choose which connection group to
 | make active.  By default there is only one group (the 'default' group).
 
+=======
+|
+| The $active_group variable lets you choose which connection group to
+| make active.  By default there is only one group (the 'default' group).
+|
+>>>>>>> c7efc3306f9f626b569410d1649fd5df362b641c
 | The $active_record variables lets you determine whether or not to load
 | the active record class
 */
 
+<<<<<<< HEAD
 // Examples: mysql
 $active_group = 'mysql';
 $active_record = TRUE;
@@ -70,3 +78,29 @@ $db['mysql']['port'] = 3306;
 
 /* End of file database.php */
 /* Location: ./application/config/database.php */
+=======
+$active_group = 'default';
+$active_record = TRUE;
+
+$db['default']['hostname'] = 'localhost';
+$db['default']['username'] = '';
+$db['default']['password'] = '';
+$db['default']['database'] = '';
+$db['default']['dbdriver'] = 'mysql';
+$db['default']['dbprefix'] = '';
+$db['default']['pconnect'] = FALSE;
+$db['default']['db_debug'] = FALSE;
+$db['default']['cache_on'] = FALSE;
+$db['default']['cachedir'] = '';
+$db['default']['char_set'] = 'utf8';
+$db['default']['dbcollat'] = 'utf8_general_ci';
+$db['default']['swap_pre'] = '';
+$db['default']['autoinit'] = TRUE;
+$db['default']['stricton'] = FALSE;
+
+//$db['default']['port'] = 3306;
+
+
+/* End of file database.php */
+/* Location: ./application/config/database.php */
+>>>>>>> c7efc3306f9f626b569410d1649fd5df362b641c

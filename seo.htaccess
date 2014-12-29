@@ -1,5 +1,6 @@
 # AddHandler application/x-httpd-php5 .php
-# suPHP_ConfigPath /home/abdulrezak/public_html/seven
+# suPHP_ConfigPath /home/your_username/public_html
+
 
 <IfModule mod_rewrite.c>
     RewriteCond %{REQUEST_FILENAME} !-f
@@ -18,4 +19,8 @@ ErrorDocument 404 /index.php
 <IfModule mod_security.c>
 SecFilterEngine Off
 SecFilterScanPOST Off
+<<<<<<< HEAD
 </IfModule>
+=======
+</IfModule>
+>>>>>>> c7efc3306f9f626b569410d1649fd5df362b641c
