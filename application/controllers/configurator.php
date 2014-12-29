@@ -89,7 +89,6 @@ class Configurator extends MY_Controller
                      'label'   => 'lang:agent_password',
                      'rules'   => 'required'
                   ),
-<<<<<<< HEAD
                //array(
                //      'field'   => 'codecanyon_username',
                //      'label'   => 'lang:codecanyon_username',
@@ -100,7 +99,6 @@ class Configurator extends MY_Controller
                //      'label'   => 'lang:codecanyon_code',
                //      'rules'   => 'required|callback_check_purchase'
                 //  )
-=======
                array(
                      'field'   => 'codecanyon_username',
                      'label'   => 'lang:codecanyon_username',
@@ -111,7 +109,6 @@ class Configurator extends MY_Controller
                      'label'   => 'lang:codecanyon_code',
                      'rules'   => 'required|callback_check_purchase'
                   )
->>>>>>> c7efc3306f9f626b569410d1649fd5df362b641c
             );
             
 		$this->form_validation->set_rules($rules);
