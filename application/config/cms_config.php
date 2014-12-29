@@ -13,9 +13,9 @@ $config['version'] = '1.5.1';
 
 $config['default_template_css'] = 'assets/css/bootstrap.min.css';
 
-$config['codecanyon_username'] = '';
-
-$config['codecanyon_code'] = '';
+//$config['codecanyon_username'] = '';
+//
+//$config['codecanyon_code'] = '';
 
 $config['hash_function'] = 'hash';
 
