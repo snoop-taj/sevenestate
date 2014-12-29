@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+			    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>http://localhost/property-point/index.php/en/1/homepage</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/1/naslovnica</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/152</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/152</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/155/test_news_category</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/155/test_novost_kategorija</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/159/test_news_category_2</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/159/test_news_category_2</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/6/map</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/6/karta</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/151</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/151</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/169/agents</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/169/agenti</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/147/featured</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/147/izdvojene</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/5/about_us</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/5/o_nama</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/142/blog_page</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/142/blog_stranica</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/145/full</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/145/full</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/143/custom_search</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/143/prilagodeni_pretrazivac</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/3/rent</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/3/najam</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/2/prodaja</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/2/sale</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/144/sale_and_rent</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/144/prodaja_i_najam</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/146/google_link</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/146/google_link</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/154/test_news</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/154/test_novost</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/157/articles</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/157/clanci</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/158/test_article_2</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/158/test_clanak_2</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/156/article_test</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/156/test_clanak</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/160/showroom</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/160/showroom</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/161/ask_expert</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/161/pitaj_eksperta</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/162/hidden_page_example</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/162/primjer_skrivene_stranice</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/163/private_page</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/163/privatna_stranica</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/en/4/contact</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/hr/4/kontakt</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/7/en/spa_bliznec</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/7/hr/toplice_bliznec</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/8/en/ozalj_apartment</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/8/hr/ozalj_apartman</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/9/en/jezero_restourant</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/9/hr/restoran_jezero</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/10/en/lux_apartment</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/10/hr/lux_apartman</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/11/en/sky_apartment</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/11/hr/sky_apartman</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/12/en/retro_house</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/12/hr/retro_kuca</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/13/en/yellow_wood</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/13/hr/zuto_drvo</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/14/en/black_glass_house</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/14/hr/kuca_crno_staklo</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/15/en/round_towers</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/15/hr/okrugle_kule</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/16/en/fear_wood</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/16/hr/drvo_straha</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/17/en/classic_american</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/17/hr/americka_kuca</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/18/en/small_beauty</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/18/hr/malena_ljepotica</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/19/en/retro_old</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/19/hr/stari_retro</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/30/en/bjelovar_estate</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/property/30/hr/bjelovar_nekretnina</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/showroom/4/en</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/showroom/4/hr</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/showroom/5/en</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/showroom/5/hr</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/showroom/6/en</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost/property-point/index.php/showroom/6/hr</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+</urlset>
