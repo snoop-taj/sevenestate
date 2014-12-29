@@ -11,7 +11,7 @@
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 		  </button>
-		  <a href="<?php echo site_url('admin/dashboard')?>" class="navbar-brand"><img src="<?php echo base_url('admin-assets/img/custom/logo-system-mini.png');?>" />Real estate <span class="bold">point</span></a>
+		  <a href="<?php echo site_url('admin/dashboard')?>" class="navbar-brand"><img src="<?php echo base_url('admin-assets/img/custom/logo-system-mini.png');?>" />Seven <span class="bold">point</span></a>
 		</div>
       <!-- Site name for smallar screens -->
 
