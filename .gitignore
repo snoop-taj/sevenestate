@@ -1,8 +1,8 @@
 documentation/
 .sql
 files/captcha/*
-application/config/development
-application/config/production
+application/config/development/
+application/config/production/
 
 
 
