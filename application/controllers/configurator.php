@@ -99,16 +99,6 @@ class Configurator extends MY_Controller
                //      'label'   => 'lang:codecanyon_code',
                //      'rules'   => 'required|callback_check_purchase'
                 //  )
-               array(
-                     'field'   => 'codecanyon_username',
-                     'label'   => 'lang:codecanyon_username',
-                     'rules'   => 'required'
-                  ),
-               array(
-                     'field'   => 'codecanyon_code',
-                     'label'   => 'lang:codecanyon_code',
-                     'rules'   => 'required|callback_check_purchase'
-                  )
             );
             
 		$this->form_validation->set_rules($rules);
