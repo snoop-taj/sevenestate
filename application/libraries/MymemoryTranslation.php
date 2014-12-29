@@ -1,0 +1,73 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed'); 
+
+class MymemoryTranslation
+{
+    public $clientID; // Customer ID
+    public $clientSecret; // Primary Account Key
+    private $accessToken = NULL;
+    private $validEmail = 'sandi@iwinter.com.hr';
+
+    public function __construct($params = array())
+    {
+        $cid = '';
+        $secret = '';
+        
+        if(is_array($params))
+        {
+            if(isset($params['clientID']))
+                $cid = $params['clientID'];
+            
+            if(isset($params['clientSecret']))
+                $secret = $params['clientSecret'];
+        }
+        
+        $this->clientID = $cid;
+        $this->clientSecret = $secret;
+    }
+
+    public function translate($word, $from, $to)
+    {    
+	    if(!function_exists('curl_version'))
+            return '';
+        
+        $params = "q=".urlencode($word)."&mt=0&langpair=".$from."|".$to;
+        
+        if(!empty($this->validEmail))
+            $params .= "&de=".$this->validEmail;
+        
+        $json_url = "http://api.mymemory.translated.net/get?$params";
+       
+        // Initializing curl
+        $ch = curl_init( $json_url );
+        
+        // Configuring curl options
+        $options = array(
+            CURLOPT_RETURNTRANSFER => true,
+            CURLOPT_HTTPHEADER => array('Content-type: application/json')
+        );
+        
+        $translatedStr = '';
+        
+        // Setting curl options
+        curl_setopt_array( $ch, $options );
+        
+        // Getting results
+        $json = curl_exec($ch); // Getting jSON result string
+        
+        $decoded_json = json_decode($json);
+        
+        if(!is_object($decoded_json))
+            return '';
+            
+        if($decoded_json->responseStatus != '200')
+            $translatedStr = 'ERROR: ';
+        
+        if($decoded_json->responseData->translatedText != '')
+            $translatedStr = $decoded_json->responseData->translatedText;
+        
+        return $translatedStr;
+    }
+
+}
+
+?>

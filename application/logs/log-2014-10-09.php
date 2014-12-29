@@ -1,0 +1,18 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-10-09 11:34:59 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\property-point\application\controllers\frontend.php 644
+ERROR - 2014-10-09 11:34:59 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\property-point\system\core\Exceptions.php:185) C:\xampp\htdocs\property-point\system\libraries\Session.php 675
+ERROR - 2014-10-09 11:34:59 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\property-point\system\core\Exceptions.php:185) C:\xampp\htdocs\property-point\system\helpers\url_helper.php 542
+ERROR - 2014-10-09 12:12:17 --> 404 Page Not Found --> http://localhost/property-point/index.php/frontend/myprofile/undefined
+ERROR - 2014-10-09 12:12:47 --> 404 Page Not Found --> http://localhost/property-point/index.php/frontend/myprofile/undefined
+ERROR - 2014-10-09 12:14:52 --> 404 Page Not Found --> http://localhost/property-point/index.php/frontend/myprofile/undefined
+ERROR - 2014-10-09 12:17:11 --> 404 Page Not Found --> http://localhost/property-point/index.php/frontend/myprofile/undefined
+ERROR - 2014-10-09 13:41:02 --> Severity: Warning  --> unlink(C:\xampp\htdocs\property-point\files/captcha/1412847447.9217.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory C:\xampp\htdocs\property-point\system\helpers\captcha_helper.php 98
+ERROR - 2014-10-09 13:41:02 --> Severity: Warning  --> unlink(C:\xampp\htdocs\property-point\files/captcha/1412847453.1411.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory C:\xampp\htdocs\property-point\system\helpers\captcha_helper.php 98
+ERROR - 2014-10-09 13:41:02 --> Severity: Warning  --> unlink(C:\xampp\htdocs\property-point\files/captcha/1412847453.5771.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory C:\xampp\htdocs\property-point\system\helpers\captcha_helper.php 98
+ERROR - 2014-10-09 13:41:02 --> Severity: Warning  --> unlink(C:\xampp\htdocs\property-point\files/captcha/1412847485.2377.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory C:\xampp\htdocs\property-point\system\helpers\captcha_helper.php 98
+ERROR - 2014-10-09 13:41:02 --> Severity: Warning  --> unlink(C:\xampp\htdocs\property-point\files/captcha/1412847490.2701.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory C:\xampp\htdocs\property-point\system\helpers\captcha_helper.php 98
+ERROR - 2014-10-09 13:41:02 --> Severity: Warning  --> unlink(C:\xampp\htdocs\property-point\files/captcha/1412847552.9921.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory C:\xampp\htdocs\property-point\system\helpers\captcha_helper.php 98
+ERROR - 2014-10-09 13:41:02 --> Severity: Warning  --> unlink(C:\xampp\htdocs\property-point\files/captcha/1412847620.4083.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory C:\xampp\htdocs\property-point\system\helpers\captcha_helper.php 98
+ERROR - 2014-10-09 13:47:14 --> Severity: Notice  --> Undefined property: Page::$showroom_m C:\xampp\htdocs\property-point\application\controllers\admin\page.php 217
+ERROR - 2014-10-09 15:01:50 --> Severity: Warning  --> file_get_contents(application/../backups/2014-08-13-19-53-05-0eb6e534c1220.sql) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory C:\xampp\htdocs\property-point\application\controllers\admin\backup.php 146
