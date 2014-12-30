@@ -32,7 +32,7 @@ $config['default_template_css'] = 'assets/css/bootstrap.min.css';
 
 $config['installed'] = false;
 
-//$config['color_picker'] = true;
+$config['color_picker'] = true;
 
 $config['color'] = 'purple';
 
